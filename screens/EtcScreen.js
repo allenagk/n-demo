@@ -2,10 +2,10 @@ import React from "react";
 import { View, Text, Button, StyleSheet } from "react-native";
 import colors from "../constants/colors";
 
-const ReminderScreen = (props) => {
+const EtcScreen = (props) => {
   return (
     <View style={styles.screen}>
-      <Text>ReminderScreen!</Text>
+      <Text>EtcScreen</Text>
     </View>
   );
 };
@@ -19,4 +19,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default ReminderScreen;
+export default EtcScreen;
