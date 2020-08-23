@@ -62,6 +62,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   title: {
+    color: colors.icon,
     fontSize: 22,
     textAlign: "right",
   },

@@ -3,4 +3,5 @@ export default {
   accent: "#FFCA28",
   backgrnd: "#FFECB3",
   black: "#212121",
+  icon: "#C7740A",
 };
